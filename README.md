@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AppsByCole
+- 👋 Hey, I’m Cole
 - 👀 I’m interested in becoming a better programmer
 - 🌱 I’m currently learning to become a better programmer
 - 💞️ I’m looking to collaborate on anything, it all makes me a better programmer
 - 📫 How to reach me AppsByCole@google.com
-- 
