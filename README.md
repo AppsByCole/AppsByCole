@@ -22,7 +22,3 @@ Feel free to explore my repositories and reach out if you have any questions or 
 ### License
 
 All projects in this GitHub profile are licensed under the MIT License unless otherwise specified.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AppsByCole&show_icons=true&theme=radical)
